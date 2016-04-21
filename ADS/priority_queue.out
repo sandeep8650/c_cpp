@@ -1,0 +1,71 @@
+
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 1
+Enter key: 7
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 1
+Enter key: 10
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 1
+Enter key: 14
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 1
+Enter key: 11
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 1
+Enter key: 13
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 1
+Enter key: 17
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 1
+Enter key: 19
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 5
+19 13 17 7 11 10 14 
+
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 3
+Maximum key in priority queue is: 19
+
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 4
+Poped key is: 19
+
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 5
+17 13 14 7 11 10 
+
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 2
+Enter position and new key: 4 100
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 5
+100 17 14 7 13 10 
+
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 4
+Poped key is: 100
+
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 5
+17 13 14 7 10 
+
+***************************************MENU******************************************************
+1. Insert key | 2. Increase key | 3. Max key | 4. Pop max key | 5. Show priority queue | 6. Exit
+: 6

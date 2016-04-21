@@ -1,0 +1,72 @@
+
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 1
+Enter data: 10
+
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 1
+Enter data: 6
+
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 1
+Enter data: 5
+
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 1
+Enter data: 8
+
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 1
+Enter data: 3
+
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 1
+Enter data: 4
+
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 1
+Enter data: 12
+
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 1
+Enter data: 14
+
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 1
+Enter data: 11
+
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 1
+Enter data: 13
+
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 1
+Enter data: 17
+
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 1
+Enter data: 15
+
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 2
+3, 4, 5, 6, 8, 10, 11, 12, 13, 14, 15, 17, 
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 3
+10, 6, 5, 3, 4, 8, 12, 11, 14, 13, 17, 15, 
+*********************************MENU******************************
+1. INSERT | 2. INORDER TRAVERSE | 3. PREORDER TRAVERSE | 4. EXIT
+: 4

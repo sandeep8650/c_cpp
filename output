@@ -1,0 +1,10 @@
+Load Successful
+-sandeep
+-shashank
+Total no. of words in dic.txt: 6
+Total no. of words in t.txt: 2
+Total no. of misspelled words: 2
+time taken by load(): 0.040608
+time taken by check(): 0.010562
+time taken by unload(): 0.001353
+total time: 0.052523

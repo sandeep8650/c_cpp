@@ -1,0 +1,5 @@
+*************OUTPUT***********************
+Enter first string(max length 99): Hello
+Enter second string(max length 99): World!
+Hello + World = HelloWorld!
+Length of concatenated string is 10

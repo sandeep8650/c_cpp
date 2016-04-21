@@ -1,0 +1,36 @@
+Enter no. of vertices: 8
+Enter no. of adjescent vertices of vertex 0: 2
+Enter adjescent vertices of vertex 0: 1 4 
+Enter no. of adjescent vertices of vertex 1: 2
+Enter adjescent vertices of vertex 1: 0 5 
+Enter no. of adjescent vertices of vertex 2: 3
+Enter adjescent vertices of vertex 2: 3 5 6 
+Enter no. of adjescent vertices of vertex 3: 3
+Enter adjescent vertices of vertex 3: 2 6 7 
+Enter no. of adjescent vertices of vertex 4: 1
+Enter adjescent vertices of vertex 4: 0 
+Enter no. of adjescent vertices of vertex 5: 3
+Enter adjescent vertices of vertex 5: 1 2 6 
+Enter no. of adjescent vertices of vertex 6: 4
+Enter adjescent vertices of vertex 6: 2 3 5 7 
+Enter no. of adjescent vertices of vertex 7: 2
+Enter adjescent vertices of vertex 7: 3 6 
+Enter source vertex: 0
+
+path from source vertex 0 to vertex 0: 0
+path from source vertex 0 to vertex 1: 0->1
+path from source vertex 0 to vertex 2: 0->1->5->2
+path from source vertex 0 to vertex 3: 0->1->5->2->3
+path from source vertex 0 to vertex 4: 0->4
+path from source vertex 0 to vertex 5: 0->1->5
+path from source vertex 0 to vertex 6: 0->1->5->2->3->6
+path from source vertex 0 to vertex 7: 0->1->5->2->3->6->7
+
+Discovery and Finish time of vertex 0: (1,16)
+Discovery and Finish time of vertex 1: (2,13)
+Discovery and Finish time of vertex 2: (4,11)
+Discovery and Finish time of vertex 3: (5,10)
+Discovery and Finish time of vertex 4: (14,15)
+Discovery and Finish time of vertex 5: (3,12)
+Discovery and Finish time of vertex 6: (6,9)
+Discovery and Finish time of vertex 7: (7,8)

@@ -1,0 +1,56 @@
+
+************************MENU**********************
+1.Insert|2.NonRecInorder|3.RecInorder|4.NonRecPreorder|5.RecPreorder|6.NonRecPostorder|7.RecPostorder|8.Exit
+: 1
+Enter data: 7
+************************MENU**********************
+1.Insert|2.NonRecInorder|3.RecInorder|4.NonRecPreorder|5.RecPreorder|6.NonRecPostorder|7.RecPostorder|8.Exit
+: 1
+Enter data: 3
+************************MENU**********************
+1.Insert|2.NonRecInorder|3.RecInorder|4.NonRecPreorder|5.RecPreorder|6.NonRecPostorder|7.RecPostorder|8.Exit
+: 1
+Enter data: 2
+************************MENU**********************
+1.Insert|2.NonRecInorder|3.RecInorder|4.NonRecPreorder|5.RecPreorder|6.NonRecPostorder|7.RecPostorder|8.Exit
+: 1
+Enter data: 5
+************************MENU**********************
+1.Insert|2.NonRecInorder|3.RecInorder|4.NonRecPreorder|5.RecPreorder|6.NonRecPostorder|7.RecPostorder|8.Exit
+: 1
+Enter data: 9
+************************MENU**********************
+1.Insert|2.NonRecInorder|3.RecInorder|4.NonRecPreorder|5.RecPreorder|6.NonRecPostorder|7.RecPostorder|8.Exit
+: 1
+Enter data: 8
+************************MENU**********************
+1.Insert|2.NonRecInorder|3.RecInorder|4.NonRecPreorder|5.RecPreorder|6.NonRecPostorder|7.RecPostorder|8.Exit
+: 1
+Enter data: 11
+************************MENU**********************
+1.Insert|2.NonRecInorder|3.RecInorder|4.NonRecPreorder|5.RecPreorder|6.NonRecPostorder|7.RecPostorder|8.Exit
+: 2
+NonRecInorder: 2,3,5,7,8,9,11,
+************************MENU**********************
+1.Insert|2.NonRecInorder|3.RecInorder|4.NonRecPreorder|5.RecPreorder|6.NonRecPostorder|7.RecPostorder|8.Exit
+: 3
+RecInorder: 2,3,5,7,8,9,11,
+************************MENU**********************
+1.Insert|2.NonRecInorder|3.RecInorder|4.NonRecPreorder|5.RecPreorder|6.NonRecPostorder|7.RecPostorder|8.Exit
+: 4
+NonRecPreorder: 7,3,2,5,9,8,11,
+************************MENU**********************
+1.Insert|2.NonRecInorder|3.RecInorder|4.NonRecPreorder|5.RecPreorder|6.NonRecPostorder|7.RecPostorder|8.Exit
+: 5
+RecPreorder: 7,3,2,5,9,8,11,
+************************MENU**********************
+1.Insert|2.NonRecInorder|3.RecInorder|4.NonRecPreorder|5.RecPreorder|6.NonRecPostorder|7.RecPostorder|8.Exit
+: 6
+NonRecPostorder: 2,5,3,8,11,9,7,
+************************MENU**********************
+1.Insert|2.NonRecInorder|3.RecInorder|4.NonRecPreorder|5.RecPreorder|6.NonRecPostorder|7.RecPostorder|8.Exit
+: 7
+RecPostorder: 2,5,3,8,11,9,7,
+************************MENU**********************
+1.Insert|2.NonRecInorder|3.RecInorder|4.NonRecPreorder|5.RecPreorder|6.NonRecPostorder|7.RecPostorder|8.Exit
+: 8

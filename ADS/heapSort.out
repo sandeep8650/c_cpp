@@ -1,0 +1,7 @@
+Enter no. of keys: 14
+Enter Array keys: 49 87 69 25 145 54 214 2 0 36 15 78 45 100 
+Sorted array is: 0 2 15 25 36 45 49 54 69 78 87 100 145 214 
+
+Enter no. of keys: 10
+Enter Array keys: 49 87 69 2534 145 21431 213 612 2115 87 
+Sorted array is: 49 69 87 87 145 213 612 2115 2534 21431
