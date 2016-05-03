@@ -41,7 +41,6 @@ void scan_graph(int vertices){
 		printf("Enter adjescent vertices of vertex %d: ",i);
 		for(j=0;j<n;j++){
 			scanf("%d",&nv);
-			printf("%d ",nv);
 			NODE_INIT(new,nv);
 			if(ADJ[i]==NULL){
 				ADJ[i]=new;
